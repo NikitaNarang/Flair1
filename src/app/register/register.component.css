@@ -1,0 +1,31 @@
+.form-group .invalid-feedback div {
+  color: #f8030399;
+  font-size: small;
+}
+
+.form-group {
+  padding-bottom: 10px;
+}
+
+.form-group .form-control {
+  height: 1.2rem;
+  margin-bottom: 5px;
+}
+
+.submit-form {
+  margin-right: 10px;
+}
+
+.input-file {
+  font-family: calibri;
+  padding-left: 10px;
+}
+
+.img-thumbnail {
+  padding: 30px 0px 0px 10px;
+}
+
+.img-thumbnail img {
+  height: 200px;
+  width: 200px;
+}

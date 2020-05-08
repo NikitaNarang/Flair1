@@ -1,0 +1,3 @@
+<div *ngIf="message"
+  [ngClass]="{ 'card-panel lighten-2': message, 'green': message.type === 'success', 'red': message.type === 'error' }">
+  <span class="white-text text-darken-2">{{message.text}}</span></div>

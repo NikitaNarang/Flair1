@@ -1,0 +1,17 @@
+.form-group .invalid-feedback div {
+    color: #f8030399;
+    font-size: small;
+  }
+  
+  .form-group {
+    padding-bottom: 10px;
+  }
+  
+  .form-group .form-control {
+    height: 1.2rem;
+    margin-bottom: 5px;
+  }
+  
+  .submit-form {
+    margin-right: 10px;
+  }
